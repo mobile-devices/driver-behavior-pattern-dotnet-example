@@ -1,1 +1,0 @@
-C:\Users\cyril\Documents\GitHub\driver-behavior-pattern-dotnet-example\DriverBehaviorPatternDemo\bin\Debug\DriverBehaviorPatternDemo.exe.config
