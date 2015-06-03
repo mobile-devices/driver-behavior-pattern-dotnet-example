@@ -10,7 +10,7 @@ You need to update source code (program.cs) to declare your Imeis and token for 
 
 # Execution
 
-The program build a default driver pattern (use internal class), serialize in Json format and push this message through Api on the device manager.
-You will see the POST message in Asset > Details > History of message on each of your assets or from the page "Apps" click on "History" for the App Driver Behavior.
+The program builds a default driver pattern (used internal class), serializes in Json format and puts this message through Api on the device manager.
+You will see the posted message in "Asset > Details > History of the messages" on each of your assets or from the page "Apps" click on "History" on the application "Driver Behavior".
 
 
