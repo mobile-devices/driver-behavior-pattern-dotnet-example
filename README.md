@@ -6,7 +6,7 @@ You must "Enable nuget package restore" before compile the projet (Right click o
 
 # Configure the program
 
-You need to update source code (program.cs) to declare your Imeis and token for authentication.
+You will need to update source code (program.cs) to declare your "Imeis" and "token" for the authentication.
 
 # Execution
 
